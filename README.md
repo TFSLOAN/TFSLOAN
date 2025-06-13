@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TFSLOAN
 - 👀 I’m interested in ... Antiques, collectibles, e-commerce
-- 🌱 I’m currently learning web3 code basics
-- 💞 Working on current project to use NFT project that relates to irl work
+- 🌱 I’m not a coder/ I just have some ideas sometimes 
 - 📫 How to reach me ...Tho.sloan@gmail.com
 
 <!---
